@@ -18,5 +18,5 @@ Exposure to:
 Some Hobbies:
 
 - 🥒 Pickleball - Competitive player | [View my profile](https://pickleball.com/players/natong-lin)
- 
 - 🎾 Tennis - USTA 3.5 |  [View my profile](https://www.tennisrecord.com/adult/matchhistory.aspx?year=Rating&playername=Natong%20Lin)
+- ♟️ Chess - [Game record](https://www.uschess.org/msa/MbrDtlMain.php?17052887)
