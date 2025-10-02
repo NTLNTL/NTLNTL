@@ -1,4 +1,4 @@
-## Hi there
+## Hi there, welcome!
 
 
 Project I'm working on: 
@@ -13,3 +13,10 @@ Main skills:
 Exposure to:
 
 [![My Skills](https://skillicons.dev/icons?i=go,react,vue,css,html)](https://skillicons.dev)
+
+
+Some Hobbies:
+
+- 🥒 Pickleball - Competitive player | [View my profile](https://pickleball.com/players/natong-lin)
+ 
+- 🎾 Tennis - USTA 3.5 |  [View my profile](https://www.tennisrecord.com/adult/matchhistory.aspx?year=Rating&playername=Natong%20Lin)
