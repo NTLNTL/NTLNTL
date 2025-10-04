@@ -19,4 +19,4 @@ Some Hobbies:
 
 - 🥒 Pickleball - [DURP 3.5](https://pickleball.com/players/natong-lin)
 - 🎾 Tennis - [USTA 3.5](https://www.tennisrecord.com/adult/matchhistory.aspx?year=Rating&playername=Natong%20Lin)
-- ♟️ Chess - [Game records](https://www.uschess.org/msa/MbrDtlMain.php?17052887)
+- ♟️ Chess - [USCF](https://www.uschess.org/msa/MbrDtlMain.php?17052887)
