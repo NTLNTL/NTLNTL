@@ -9,6 +9,6 @@ Projects I'm working on:
 
 Some Hobbies:
 
-- 🥒 Pickleball - [DURP 3.5](https://pickleball.com/players/natong-lin)
+- 🥒 Pickleball - [DURP 3.5](https://dashboard.dupr.com/dashboard)
 - 🎾 Tennis - [USTA 3.5](https://www.tennisrecord.com/adult/matchhistory.aspx?year=Rating&playername=Natong%20Lin)
 - ♟️ Chess - [USCF](https://www.uschess.org/msa/MbrDtlMain.php?17052887)
